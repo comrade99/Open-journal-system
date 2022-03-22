@@ -1,4 +1,4 @@
-# Open-journal-system
+# Open-journal-system-Vulnerability
 XSS via Host Header injection and Steal  Password Reset Token of another user
 Step to reproduce:
 1) Go to this site: https://who's-using-ojs-software.com
