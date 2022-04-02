@@ -1,3 +1,4 @@
+CVE-2022-24181
 # Open-journal-system-Vulnerability
 XSS via Host Header injection and Steal  Password Reset Token of another user
 Step to reproduce:
