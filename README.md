@@ -1,4 +1,4 @@
-CVE-2022-24181
+CVE-2022-24181 and CVE-2022-26616. both are probably same
 # Open-journal-system-Vulnerability
 XSS via Host Header injection and Steal  Password Reset Token of another user
 Step to reproduce:
